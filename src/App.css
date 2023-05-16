@@ -1,0 +1,26 @@
+.dark {
+    background-color: rgb(62, 30, 60);
+    color: #fff;
+}
+
+.light {
+    background-color: rgb(26, 255, 255);
+    color: #333;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calc-wrapper {
+    background-color: white;
+    width: 300px;
+    border-radius: 16px;
+}
+
+.row {
+    display: flex;
+
+}
